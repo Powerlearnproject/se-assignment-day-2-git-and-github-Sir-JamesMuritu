@@ -49,22 +49,21 @@
 # Public Repository
 
    # Advantages:
-   Open Collaboration – Anyone can view, fork, and contribute (via pull requests) to the project, making it ideal for open-source software.
-   Community Growth – Attracts developers who can contribute, report issues, and suggest improvements.
-   Visibility & Portfolio – Great for showcasing your work, building credibility, and demonstrating skills to employers or clients.
-   Free Hosting – Public repositories are free on GitHub, even for multiple collaborators.
-   SEO & Discoverability – Public projects appear in search results, increasing exposure.
+1. Open Collaboration – Anyone can view, fork, and contribute (via pull requests) to the project, making it ideal for open-source software.
+2. Community Growth – Attracts developers who can contribute, report issues, and suggest improvements.
+3. Visibility & Portfolio – Great for showcasing your work, building credibility, and demonstrating skills to employers or clients.
+4. Free Hosting – Public repositories are free on GitHub, even for multiple collaborators.
 
    # Disadvantages:
-   No Privacy – The code, issues, and discussions are visible to everyone, which may not be suitable for proprietary or sensitive projects.
-   Security Risks – Malicious actors can view and potentially exploit vulnerabilities in the code.
-   Unwanted Contributions – Without proper permissions and issue tracking, you may receive spammy or low-quality contributions.
+1. No Privacy – The code, issues, and discussions are visible to everyone, which may not be suitable for proprietary or sensitive projects.
+2. Security Risks – Malicious actors can view and potentially exploit vulnerabilities in the code.
+3. Unwanted Contributions – Without proper permissions and issue tracking, you may receive spammy or low-quality contributions.
 
 # Best For:
-   Open-source projects
-   Public documentation or educational resources
-   Showcasing work in a portfolio
-   Encouraging community contributions
+Open-source projects
+Public documentation or educational resources
+Showcasing work in a portfolio
+Encouraging community contributions
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
